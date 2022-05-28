@@ -5,7 +5,7 @@ While Fundy using an advanced pose detection that require a data training, this 
 # Dependencies
 1. Python
 2. Library:
-  - mediapipe
+   - mediapipe
   - open-cv
   - pydirectinput
 
