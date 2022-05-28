@@ -2,6 +2,9 @@
 A simple program to control Minecraft using body pose. Inspired by Fundy—light version. 
 While Fundy using an advanced pose detection that require a data training, this program simply just detect pose landmarks and use the inputs to control minecraft.
 
+# Youtube video
+![](https://i.ytimg.com/vi/tppGLsRpnbY/maxresdefault.jpg)
+
 # Dependencies
 1. Python
 2. Library:
