@@ -21,3 +21,4 @@ While Fundy use an advanced pose detection that require some data trainings, thi
    - `pip install opencv-python`
    - `pip install pydirectinput`
 4. Open Minecraft, and run the program `python pose.py`
+5. In Minecraft, you need to change mouse setting: Option > Control > Mouse Settings > Raw Input > OFF 
